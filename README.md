@@ -1,16 +1,13 @@
-# buangin_app
+# Buangin
 
-A new Flutter project.
+## Buangin - Aplikasi Penghubung Masyarakat dan Pengepul Sampah
 
-## Getting Started
+Sebuah prototipe aplikasi yang dibuat untuk menyelesaikan tugas besar PRD (Pengantar Rekayasa dan Desain), Buangin adalah aplikasi yang berguna untuk menghubungkan masyarakat dan pengepul untuk melakukan proses jual beli sampah.
 
-This project is a starting point for a Flutter application.
+Aplikasi ini dibangun dengan menggunakan Flutter dan Firebase, tugas ini dikerjakan dalam waktu ±1 Bulan.
 
-A few resources to get you started if this is your first Flutter project:
+Fitur Aplikasi
+1. Sistem Autentikasi dengan Akun Google
+2. Data yang Ditampilkan Telah Terhubung dengan Cloud Firestore
+3. Fungsi Dasar untuk Mengubah Nilai Data di Database
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
