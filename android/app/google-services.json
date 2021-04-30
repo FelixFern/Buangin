@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "769883269438",
+    "project_id": "buangin-66376",
+    "storage_bucket": "buangin-66376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769883269438:android:55f74124944ab3bcc7e46f",
+        "android_client_info": {
+          "package_name": "com.example.buangin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769883269438-nu52vvhc34092d00qgsi84io3jbd7k6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buangin_app",
+            "certificate_hash": "edd71564b456e056369b5a77f05a12cb34b6d26d"
+          }
+        },
+        {
+          "client_id": "769883269438-l0d5of7agmnj2vujeri09uo4lo8v9lqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq5o967tWtgniLqvAm8ubzRIZ52GPa-6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769883269438-l0d5of7agmnj2vujeri09uo4lo8v9lqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
